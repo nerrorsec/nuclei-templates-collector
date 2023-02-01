@@ -1,2 +1,2 @@
-# nuclei-templates-collector
-Collect unique nuclei templates from various sources.
+### Dependencies
+- [Interlace](https://github.com/codingo/Interlace): for faster execution time
